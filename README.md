@@ -1,6 +1,6 @@
 # Notes Web
 
-A lightweight notes app built with Rust, Axum, and PostgreSQL. Its responsive interface is inspired by Google Keep.
+A lightweight notes app built with Rust language, Axum, and PostgreSQL. Its responsive interface is inspired by Google Keep.
 
 ## Features
 
